@@ -73,7 +73,7 @@ Lower-level orchestration layer supporting ContextLattice.
 
 ## 📈 Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheawinkler&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheawinkler&show_icons=true&hide_title=true&rank_icon=github&cache_seconds=86400)
 
 ---
 
