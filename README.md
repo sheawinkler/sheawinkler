@@ -27,6 +27,7 @@ Real-time trading system focused on execution logic, decision pipelines, and sys
 - Ongoing work on execution quality and model lifecycle  
 
 👉 https://github.com/sheawinkler/algotrader-community
+👉 https://github.com/sheawinkler/algotrader-rust (private)
 
 ---
 
@@ -48,7 +49,7 @@ Lower-level orchestration layer supporting ContextLattice.
 - Work on storage behavior, replay, and resilience  
 - Integration with multiple data sources and services  
 
-👉 https://github.com/sheawinkler/http-context-and-memory-orchestrator
+👉 https://github.com/sheawinkler/http-context-and-memory-orchestrator (private)
 
 ---
 
