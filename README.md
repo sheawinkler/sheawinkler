@@ -10,7 +10,7 @@ I design and build production systems across AI infrastructure, data platforms, 
 
 ### 🧠 ContextLattice
 
-Local-first memory and context orchestration system for AI agents.
+Local-first memory and context orchestration infrastructure for AI agents.
 
 - HTTP-native gateway for tools, models, and retrieval  
 - Multi-service architecture implemented in Go and Rust  
