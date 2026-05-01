@@ -19,7 +19,7 @@ Local-first memory and context orchestration infrastructure for AI agents.
 - Grounded context packs fused from vector, graph, and rollup evidence  
 - Ongoing focus on recall quality, context compression, and runtime reliability  
 
-👉 https://github.com/sheawinkler/ContextLattice
+👉 [ContextLattice](https://github.com/sheawinkler/ContextLattice)
 
 ---
 
@@ -31,7 +31,7 @@ Rust-first autonomous agent runtime focused on reliability, policy control, and 
 - Deterministic policy controls for tool execution (`audit`, `simulate`, `enforce`)
 - Upstream parity gates with replayable diagnostics for long-running sessions
 
-👉 https://github.com/sheawinkler/hermes-agent-ultra
+👉 [hermes-agent-ultra](https://github.com/sheawinkler/hermes-agent-ultra)
 
 ---
 
@@ -43,7 +43,7 @@ Real-time decision and execution system focused on runtime behavior, constraints
 - FastAPI Sidecar integration for model routing, control signals, and telemetry
 - Ongoing focus on execution quality, slippage control, and runtime behavior
 
-👉 https://github.com/sheawinkler/algotrader-community
+👉 [algotrader-community](https://github.com/sheawinkler/algotrader-community)
 
 ---
 
@@ -55,7 +55,7 @@ Service layer for orchestration between models and execution systems.
 - Model orchestration and cross-service coordination for live systems
 - Bridge layer between Rust execution engines and Python model workflows
 
-👉 https://github.com/sheawinkler/fastapi-sidecar
+👉 [fastapi-sidecar](https://github.com/sheawinkler/fastapi-sidecar)
 
 ---
 
