@@ -14,7 +14,7 @@ Local-first memory and context orchestration infrastructure for AI agents.
 
 - HTTP-native gateway for tools, models, and retrieval  
 - Multi-service architecture implemented in Go and Rust  
-- Python components retained for compatibility and fallback execution paths  
+- Go/Rust hot-path architecture with controlled compatibility lanes  
 - Ongoing work on storage, retrieval, context compression, and runtime behavior  
 
 👉 https://github.com/sheawinkler/ContextLattice
@@ -70,14 +70,14 @@ Service layer for orchestration between models and execution systems.
 
 ## 🧭 Current Work
 
-- Scaling ContextLattice as a general-purpose memory/orchestration layer
-- Improving execution quality and system behavior in AlgoTrader
-- Tightening integration across Rust, Python, and Go services
+| Current Work | Current Priorities |
+| --- | --- |
+| Scaling ContextLattice as a memory + orchestration control plane.<br>Hardening Hermes Agent Ultra for policy-safe, long-running autonomous sessions.<br>Improving execution quality and runtime behavior in AlgoTrader. | Reliability and policy enforcement across agent/tool workflows.<br>Retrieval quality, context compression, and runtime observability.<br>Cross-runtime integration discipline across Rust, Python, and Go. |
 
 ---
 
 ## 📍 About
 
 Denver, CO (Remote)  
-https://contextlattice.io  
-https://linkedin.com/in/sheawinkler
+[contextlattice.io](https://contextlattice.io)  
+[LinkedIn](https://linkedin.com/in/sheawinkler)
