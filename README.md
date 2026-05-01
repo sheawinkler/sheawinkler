@@ -21,7 +21,7 @@ Local-first memory and context orchestration infrastructure for AI agents.
 
 ---
 
-### 🛡️ Hermes Agent Ultra
+### 🪽 Hermes Agent Ultra
 
 Rust-first autonomous agent runtime focused on reliability, policy control, and upstream parity management.
 
