@@ -75,17 +75,17 @@ Service layer for orchestration between models and execution systems.
     <td width="50%" valign="top">
       <strong>Current Work</strong>
       <ul>
-        <li>Scaling ContextLattice as a memory + orchestration control plane</li>
-        <li>Hardening Hermes Agent Ultra for policy-safe, long-running autonomous sessions</li>
-        <li>Improving execution quality and runtime behavior in AlgoTrader</li>
+        <li>Operating ContextLattice as a memory control plane that composes grounded context packs from vector, graph, and rollup evidence for agent decisions</li>
+        <li>Advancing Hermes Agent Ultra as a policy-governed autonomous runtime with deterministic tool controls, parity gates, and incident-grade observability</li>
+        <li>Driving AlgoTrader + FastAPI Sidecar as a closed-loop execution platform coupling model routing, telemetry, and risk-aware trade orchestration</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>Current Priorities</strong>
       <ul>
-        <li>Reliability and policy enforcement across agent/tool workflows</li>
-        <li>Retrieval quality, context compression, and runtime observability</li>
-        <li>Cross-runtime integration discipline across Rust, Python, and Go</li>
+        <li>Define and enforce SLOs for retrieval latency, recall quality, and degradation behavior across memory lanes</li>
+        <li>Ship reliability-by-default agent operations with enforce-mode policies, replayable traces, and runbooked incident response</li>
+        <li>Tighten signal-to-execution feedback loops across Rust engines and Python/Go sidecars under live runtime constraints</li>
       </ul>
     </td>
   </tr>
