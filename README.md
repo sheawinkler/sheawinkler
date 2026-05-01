@@ -21,6 +21,18 @@ Local-first memory and context orchestration infrastructure for AI agents.
 
 ---
 
+### 🛡️ Hermes Agent Ultra
+
+Rust-first autonomous agent runtime focused on reliability, policy control, and upstream parity management.
+
+- Rust-native runtime for agent loop, tools, gateway, skills, and CLI/TUI
+- Runtime policy controls for tool execution (`audit`, `simulate`, `enforce`)
+- Upstream parity workflows and operational diagnostics for long-running sessions
+
+👉 https://github.com/sheawinkler/hermes-agent-ultra
+
+---
+
 ### ⚡ AlgoTrader (Rust)
 
 Real-time decision and execution system focused on runtime behavior, constraints, and feedback loops.
