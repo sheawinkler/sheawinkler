@@ -14,7 +14,7 @@ Local-first memory and context orchestration infrastructure for AI agents.
 
 - HTTP-native gateway for tools, models, and retrieval  
 - Multi-service architecture implemented in Go and Rust  
-- Go/Rust hot-path architecture with controlled compatibility lanes  
+- Grounded context packs across memory sources (vector, graph, and rollups) through a single control-plane API  
 - Ongoing work on storage, retrieval, context compression, and runtime behavior  
 
 👉 https://github.com/sheawinkler/ContextLattice
