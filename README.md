@@ -70,9 +70,26 @@ Service layer for orchestration between models and execution systems.
 
 ## 🧭 Current Work
 
-| Current Work | Current Priorities |
-| --- | --- |
-| Scaling ContextLattice as a memory + orchestration control plane.<br>Hardening Hermes Agent Ultra for policy-safe, long-running autonomous sessions.<br>Improving execution quality and runtime behavior in AlgoTrader. | Reliability and policy enforcement across agent/tool workflows.<br>Retrieval quality, context compression, and runtime observability.<br>Cross-runtime integration discipline across Rust, Python, and Go. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Current Work</strong>
+      <ul>
+        <li>Scaling ContextLattice as a memory + orchestration control plane</li>
+        <li>Hardening Hermes Agent Ultra for policy-safe, long-running autonomous sessions</li>
+        <li>Improving execution quality and runtime behavior in AlgoTrader</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Current Priorities</strong>
+      <ul>
+        <li>Reliability and policy enforcement across agent/tool workflows</li>
+        <li>Retrieval quality, context compression, and runtime observability</li>
+        <li>Cross-runtime integration discipline across Rust, Python, and Go</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
