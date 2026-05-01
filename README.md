@@ -4,6 +4,8 @@
 
 I design and build production systems across AI infrastructure, data platforms, and real-time decision pipelines.
 
+Denver, CO (Remote) · [contextlattice.io](https://contextlattice.io) · [LinkedIn](https://linkedin.com/in/sheawinkler)
+
 ---
 
 ## 🚀 Selected Systems
@@ -92,9 +94,3 @@ Service layer for orchestration between models and execution systems.
 </table>
 
 ---
-
-## 📍 About
-
-Denver, CO (Remote)  
-[contextlattice.io](https://contextlattice.io)  
-[LinkedIn](https://linkedin.com/in/sheawinkler)
