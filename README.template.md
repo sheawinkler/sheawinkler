@@ -10,16 +10,13 @@ Denver, CO (Remote) · [contextlattice.io](https://contextlattice.io) · [Linked
 
 ## Operations Snapshot
 
-**Total stars: `62` | Open issues: `6` | Freshest push: `2026-05-02`**
+**{{TOPLINE_SIGNALS}}**
 
 | System | Stars | Open Issues | Last Push |
 | --- | ---: | ---: | --- |
-| `algotrader-community` | 1 | 0 | 2026-03-23 |
-| `ContextLattice` | 48 | 1 | 2026-04-30 |
-| `fastapi-sidecar` | 4 | 4 | 2026-04-28 |
-| `hermes-agent-ultra` | 9 | 1 | 2026-05-02 |
+{{SIGNALS_TABLE_ROWS}}
 
-_Last refreshed: `2026-05-02T05:59:27Z`_
+_Last refreshed: `{{LAST_REFRESHED_UTC}}`_
 
 ---
 

@@ -1,0 +1,31 @@
+{
+  "errors": [],
+  "generated_at_utc": "2026-05-02T05:59:27Z",
+  "owner": "sheawinkler",
+  "repos": [
+    {
+      "name": "ContextLattice",
+      "open_issues": 1,
+      "pushed_at": "2026-04-30T12:08:15Z",
+      "stars": 48
+    },
+    {
+      "name": "hermes-agent-ultra",
+      "open_issues": 1,
+      "pushed_at": "2026-05-02T05:25:17Z",
+      "stars": 9
+    },
+    {
+      "name": "algotrader-community",
+      "open_issues": 0,
+      "pushed_at": "2026-03-23T20:40:18Z",
+      "stars": 1
+    },
+    {
+      "name": "fastapi-sidecar",
+      "open_issues": 4,
+      "pushed_at": "2026-04-28T18:30:57Z",
+      "stars": 4
+    }
+  ]
+}
