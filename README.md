@@ -8,9 +8,19 @@ Denver, CO (Remote) · [contextlattice.io](https://contextlattice.io) · [Linked
 
 ---
 
-## 🚀 Selected Systems
+## Brief
 
-### 🧠 ContextLattice
+- Building production systems across AI infrastructure, data platforms, and real-time decision pipelines.
+- Primary systems: ContextLattice, Hermes Agent Ultra, AlgoTrader (Rust), and FastAPI Sidecar.
+- Current focus: runtime reliability, recall quality, context compression, and execution quality.
+
+---
+
+## 🚀 System Dossiers
+
+<details open>
+<summary><strong>🧠 ContextLattice</strong></summary>
+<br>
 
 Local-first memory and context orchestration infrastructure for AI agents.
 
@@ -21,9 +31,11 @@ Local-first memory and context orchestration infrastructure for AI agents.
 
 👉 [ContextLattice](https://github.com/sheawinkler/ContextLattice)
 
----
+</details>
 
-### 🪽 Hermes Agent Ultra
+<details>
+<summary><strong>🪽 Hermes Agent Ultra</strong></summary>
+<br>
 
 Rust-first autonomous agent runtime focused on reliability, policy control, and upstream parity management.
 
@@ -33,9 +45,11 @@ Rust-first autonomous agent runtime focused on reliability, policy control, and 
 
 👉 [hermes-agent-ultra](https://github.com/sheawinkler/hermes-agent-ultra)
 
----
+</details>
 
-### ⚡ AlgoTrader (Rust)
+<details>
+<summary><strong>⚡ AlgoTrader (Rust)</strong></summary>
+<br>
 
 Real-time decision and execution system focused on runtime behavior, constraints, and feedback loops.
 
@@ -45,9 +59,11 @@ Real-time decision and execution system focused on runtime behavior, constraints
 
 👉 [algotrader-community](https://github.com/sheawinkler/algotrader-community)
 
----
+</details>
 
-### 🔌 FastAPI Sidecar
+<details>
+<summary><strong>🔌 FastAPI Sidecar</strong></summary>
+<br>
 
 Service layer for orchestration between models and execution systems.
 
@@ -56,6 +72,8 @@ Service layer for orchestration between models and execution systems.
 - Bridge layer between Rust execution engines and Python model workflows
 
 👉 [fastapi-sidecar](https://github.com/sheawinkler/fastapi-sidecar)
+
+</details>
 
 ---
 
