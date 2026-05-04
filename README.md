@@ -13,6 +13,7 @@ Denver, CO (Remote) · [contextlattice.io](https://contextlattice.io) · [Linked
 - Building production systems across AI infrastructure, data platforms, and real-time decision pipelines.
 - Primary systems: ContextLattice, Hermes Agent Ultra, AlgoTrader (Rust), and FastAPI Sidecar.
 - Current focus: runtime reliability, recall quality, context compression, and execution quality.
+- Long-horizon, outcome-driven AI decision making and AI integrity engineering.
 
 ---
 
