@@ -2,7 +2,7 @@
 
 **AI Systems Engineer & Designer | Distributed Platforms | Solana Expert**
 
-##returning by mid-November - seeking funding / sponsors 
+## returning by mid-November - seeking funding / sponsors 
 ### - Capital Dispersers: please contact me for investment discussions 
 ### 
 
