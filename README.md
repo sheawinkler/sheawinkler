@@ -3,7 +3,7 @@
 **AI Systems Engineer & Designer | Distributed Platforms | Solana Expert**
 
 ## returning by mid-November - seeking funding / sponsors 
-### - Capital Dispersers: please contact me for investment discussions 
+### - Capital Investors: please contact me for investment discussions 
 ### 
 
 I design and build production systems across AI infrastructure, data platforms, and real-time decision pipelines.
